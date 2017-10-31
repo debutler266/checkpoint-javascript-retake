@@ -5,8 +5,15 @@
 // - a `members` property that is an empty array not determined by input (not passed into the constructor)
 // - an `addMember` method that adds a person (string) to the `members` array
 // Type your solution immediately below this line:
-
-
+class Group{
+  constructor(name){
+    this.name = name
+    this.members = []
+  }
+    addMember(member){
+    this.member.push(member)
+  }
+}
 
 
 
@@ -15,6 +22,12 @@
 // Type your solution immediately below this line:
 
 
+var Group = new classmates(classmates) {
+  constructor(classmates) {
+    
+  }
+})
+myClassmates.addMember(member)
 
 
 
